@@ -1,0 +1,1 @@
+.form-box{margin:10rpx 15rpx 10rpx 15rpx}.form-box input, .form-box textarea{width:100%;background-color:#c9c7c7;border-color:#00f;border-radius:5rpx}.form-box button{margin-top:30rpx}

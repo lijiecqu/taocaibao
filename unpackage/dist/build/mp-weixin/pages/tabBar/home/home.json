@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "淘才宝",
+  "navigationBarTextStyle": "black",
+  "enablePullDownRefresh": true,
+  "onReachBottomDistance": 50,
+  "usingComponents": {}
+}
